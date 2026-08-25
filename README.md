@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
