@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
