@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0520-detect-capital](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
