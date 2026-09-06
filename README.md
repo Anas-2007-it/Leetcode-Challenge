@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
