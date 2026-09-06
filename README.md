@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
