@@ -11,6 +11,7 @@
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
