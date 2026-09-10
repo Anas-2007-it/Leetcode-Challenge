@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
