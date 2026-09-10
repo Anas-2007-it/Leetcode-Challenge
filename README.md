@@ -40,6 +40,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
