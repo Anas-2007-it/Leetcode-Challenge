@@ -41,6 +41,7 @@
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
