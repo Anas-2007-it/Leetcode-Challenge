@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
