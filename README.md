@@ -62,6 +62,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
@@ -94,6 +95,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Geometry
 |  |
 | ------- |
