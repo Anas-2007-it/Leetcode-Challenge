@@ -60,6 +60,7 @@
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
@@ -112,6 +113,7 @@
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
@@ -124,6 +126,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
