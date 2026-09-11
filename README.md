@@ -24,6 +24,7 @@
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
@@ -93,6 +94,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
