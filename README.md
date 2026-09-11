@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -155,4 +157,5 @@
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
