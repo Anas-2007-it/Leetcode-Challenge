@@ -55,6 +55,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Geometry
 |  |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -183,4 +186,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
