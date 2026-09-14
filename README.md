@@ -58,6 +58,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
@@ -84,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
