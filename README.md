@@ -26,6 +26,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
+| [0848-shifting-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0848-shifting-letters) |
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -64,6 +65,7 @@
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
+| [0848-shifting-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0848-shifting-letters) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -178,6 +180,7 @@
 | [0525-contiguous-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
