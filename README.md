@@ -62,6 +62,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
@@ -100,6 +101,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
