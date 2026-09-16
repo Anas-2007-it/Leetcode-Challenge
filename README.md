@@ -64,6 +64,7 @@
 | [0525-contiguous-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
@@ -114,6 +115,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
