@@ -56,6 +56,7 @@
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0217-contains-duplicate) |
@@ -116,6 +117,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
