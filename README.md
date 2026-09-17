@@ -86,6 +86,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -127,6 +128,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
