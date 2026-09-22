@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0344-reverse-string) |
@@ -242,4 +243,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
