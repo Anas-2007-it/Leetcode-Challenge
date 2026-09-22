@@ -140,6 +140,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0075-sort-colors) |
@@ -233,6 +234,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0876-middle-of-the-linked-list) |
