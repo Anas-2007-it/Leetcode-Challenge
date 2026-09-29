@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0162-find-peak-element](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0704-binary-search) |
@@ -258,6 +260,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -274,5 +277,6 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
