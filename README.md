@@ -29,6 +29,7 @@
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -251,10 +252,12 @@
 | [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
