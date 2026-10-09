@@ -32,6 +32,7 @@
 | [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,11 +255,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
