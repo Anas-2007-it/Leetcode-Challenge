@@ -41,6 +41,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
@@ -320,4 +321,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
