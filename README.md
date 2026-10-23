@@ -353,4 +353,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
