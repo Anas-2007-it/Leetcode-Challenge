@@ -265,6 +265,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0856-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0897-increasing-order-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -289,6 +290,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -325,6 +328,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -334,6 +338,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
