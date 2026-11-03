@@ -13,6 +13,7 @@
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -100,6 +101,7 @@
 | [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
