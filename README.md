@@ -90,6 +90,7 @@
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
@@ -149,6 +150,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -179,6 +181,7 @@
 | [0917-reverse-only-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Sorting
 |  |
@@ -193,6 +196,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
