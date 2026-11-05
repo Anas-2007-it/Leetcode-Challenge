@@ -28,6 +28,7 @@
 | [0344-reverse-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0819-most-common-word](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0821-shortest-distance-to-a-character) |
