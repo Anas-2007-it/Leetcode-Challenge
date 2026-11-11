@@ -16,6 +16,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -238,6 +239,7 @@
 | [0011-container-with-most-water](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0881-boats-to-save-people) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
 |  |
 | ------- |
