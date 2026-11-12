@@ -41,6 +41,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
