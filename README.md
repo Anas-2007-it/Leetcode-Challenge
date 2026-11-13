@@ -25,6 +25,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0383-ransom-note) |
@@ -70,6 +71,7 @@
 | [0053-maximum-subarray](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Geometry
@@ -317,6 +320,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -378,6 +382,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0401-binary-watch) |
 ## Binary Lifting
 |  |
