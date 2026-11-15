@@ -12,6 +12,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -101,6 +102,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1664-ways-to-make-a-fair-array) |
@@ -261,6 +263,7 @@
 | [0848-shifting-letters](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1664-ways-to-make-a-fair-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
@@ -373,6 +376,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Indexed Tree
 |  |
