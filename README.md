@@ -13,6 +13,7 @@
 | [0812-largest-triangle-area](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0812-largest-triangle-area) |
 | [1512-number-of-good-pairs](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/0067-add-binary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3360-stone-removal-game](https://github.com/Anas-2007-it/Leetcode-Challenge/tree/master/3360-stone-removal-game) |
 ## Array
 |  |
 | ------- |
